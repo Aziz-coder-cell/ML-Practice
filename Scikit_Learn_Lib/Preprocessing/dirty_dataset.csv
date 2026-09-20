@@ -1,0 +1,501 @@
+ID,Age,Gender,City,Profession,Marital status
+1,35.0,,Florida,MBA,Unmarried
+2,36.0,Male,Florida,Doctor,Married
+3,18.0,,LA,Doctor,Unmarried
+4,62.0,Female,LA,AI_Engineer,Married
+5,56.0,Female,LA,AI_Engineer,Unmarried
+6,25.0,Female,Colorado,ML_Engineer,Unmarried
+7,32.0,Female,Florida,MBA,
+8,49.0,Male,New york,MBA,Married
+9,29.0,Female,Colorado,AI_Engineer,Unmarried
+10,42.0,Male,Florida,Doctor,Unmarried
+11,,Female,Colorado,Doctor,Unmarried
+12,59.0,Male,LA,Doctor,Unmarried
+13,27.0,Female,New york,Doctor,Unmarried
+14,45.0,Female,Florida,AI_Engineer,
+15,32.0,Male,New york,Doctor,Married
+16,39.0,Male,Florida,ML_Engineer,Married
+17,47.0,Female,LA,MBA,Married
+18,35.0,Male,New york,Doctor,Married
+19,39.0,Female,LA,AI_Engineer,Married
+20,24.0,Male,Florida,AI_Engineer,Unmarried
+21,47.0,Female,Florida,ML_Engineer,Unmarried
+22,49.0,Male,LA,ML_Engineer,Married
+23,35.0,Male,Florida,Doctor,Married
+24,64.0,Female,LA,MBA,Unmarried
+25,63.0,Male,New york,ML_Engineer,Married
+26,34.0,Male,LA,Doctor,Unmarried
+27,34.0,Male,Colorado,ML_Engineer,Married
+28,62.0,Female,Colorado,MBA,
+29,,Male,New york,Doctor,Married
+30,60.0,Female,New york,AI_Engineer,Married
+31,46.0,Female,Colorado,ML_Engineer,
+32,36.0,Male,Colorado,MBA,Unmarried
+33,39.0,Male,New york,Doctor,Unmarried
+34,35.0,Female,LA,Doctor,Married
+35,38.0,Female,Florida,ML_Engineer,Married
+36,27.0,Female,Florida,MBA,Married
+37,43.0,Female,New york,MBA,Married
+38,50.0,Male,New york,AI_Engineer,Married
+39,43.0,Male,Florida,ML_Engineer,Unmarried
+40,19.0,Female,LA,Doctor,Unmarried
+41,46.0,Female,LA,AI_Engineer,Married
+42,43.0,Male,LA,Doctor,Unmarried
+43,21.0,Female,Florida,MBA,Unmarried
+44,64.0,Male,LA,AI_Engineer,Married
+45,33.0,Female,Florida,Doctor,Married
+46,38.0,,New york,MBA,Unmarried
+47,31.0,Male,Florida,Doctor,Unmarried
+48,22.0,Male,Colorado,MBA,Unmarried
+49,41.0,,New york,Doctor,Unmarried
+50,42.0,Female,,,Married
+51,22.0,Female,New york,ML_Engineer,Unmarried
+52,53.0,Female,Colorado,ML_Engineer,Unmarried
+53,29.0,,Florida,AI_Engineer,Married
+54,44.0,Male,Florida,Doctor,Unmarried
+55,36.0,Female,Florida,Doctor,Married
+56,53.0,Female,New york,AI_Engineer,Unmarried
+57,18.0,Male,LA,Doctor,Unmarried
+58,48.0,Female,Florida,MBA,Unmarried
+59,40.0,Female,LA,MBA,Unmarried
+60,61.0,Male,Colorado,AI_Engineer,Unmarried
+61,20.0,Female,New york,ML_Engineer,Married
+62,,Female,LA,AI_Engineer,Unmarried
+63,46.0,Female,Colorado,,Married
+64,31.0,Male,LA,AI_Engineer,Married
+65,55.0,Male,New york,Doctor,
+66,59.0,Female,Colorado,Doctor,Married
+67,23.0,Male,New york,ML_Engineer,Unmarried
+68,18.0,Female,Colorado,MBA,Unmarried
+69,64.0,Female,Colorado,ML_Engineer,Unmarried
+70,18.0,Male,New york,Doctor,Unmarried
+71,25.0,Male,LA,Doctor,Unmarried
+72,65.0,Female,Colorado,AI_Engineer,Married
+73,60.0,Female,New york,ML_Engineer,Unmarried
+74,61.0,,LA,ML_Engineer,Unmarried
+75,33.0,Female,Colorado,ML_Engineer,Married
+76,62.0,Male,LA,AI_Engineer,Unmarried
+77,29.0,Female,Florida,MBA,Married
+78,22.0,Male,LA,MBA,Married
+79,,Female,New york,MBA,Unmarried
+80,21.0,Male,New york,Doctor,Married
+81,20.0,Male,New york,Doctor,Married
+82,58.0,Male,Colorado,Doctor,Married
+83,62.0,,,MBA,Unmarried
+84,32.0,Female,LA,Doctor,Unmarried
+85,19.0,Female,New york,ML_Engineer,Married
+86,37.0,Male,Colorado,MBA,Unmarried
+87,65.0,Male,LA,Doctor,Married
+88,24.0,Female,Colorado,MBA,Unmarried
+89,52.0,,Colorado,ML_Engineer,Married
+90,53.0,,New york,Doctor,Unmarried
+91,29.0,Male,Florida,AI_Engineer,Married
+92,34.0,Male,New york,AI_Engineer,Unmarried
+93,22.0,Male,Florida,ML_Engineer,
+94,22.0,Male,Colorado,MBA,
+95,28.0,,New york,MBA,Married
+96,,Male,Colorado,,Unmarried
+97,22.0,Female,LA,Doctor,Unmarried
+98,25.0,Female,New york,,Married
+99,51.0,Female,Colorado,Doctor,Unmarried
+100,56.0,Male,Colorado,,
+101,18.0,Female,Colorado,ML_Engineer,Unmarried
+102,30.0,Male,Colorado,Doctor,Married
+103,65.0,Female,Colorado,Doctor,Unmarried
+104,63.0,Male,Florida,,Married
+105,64.0,Male,,ML_Engineer,Unmarried
+106,36.0,Male,LA,ML_Engineer,Unmarried
+107,24.0,,,Doctor,Married
+108,26.0,Female,Colorado,Doctor,Unmarried
+109,,Male,New york,ML_Engineer,Married
+110,32.0,Male,Florida,AI_Engineer,Married
+111,34.0,Female,LA,ML_Engineer,Married
+112,27.0,Female,Colorado,AI_Engineer,Unmarried
+113,60.0,Female,Florida,MBA,Unmarried
+114,31.0,Male,Colorado,Doctor,Unmarried
+115,61.0,Male,Florida,MBA,Married
+116,58.0,Male,LA,AI_Engineer,Unmarried
+117,64.0,,Colorado,Doctor,Married
+118,41.0,Female,New york,AI_Engineer,Married
+119,60.0,Male,Colorado,Doctor,Married
+120,53.0,Male,Colorado,ML_Engineer,Married
+121,61.0,Male,Colorado,AI_Engineer,Unmarried
+122,46.0,Male,New york,ML_Engineer,Married
+123,29.0,Male,Florida,ML_Engineer,Married
+124,58.0,Female,Colorado,ML_Engineer,Unmarried
+125,50.0,Female,Colorado,MBA,Married
+126,60.0,Female,LA,ML_Engineer,Unmarried
+127,30.0,Female,New york,Doctor,Married
+128,21.0,Female,Florida,ML_Engineer,Married
+129,45.0,Male,LA,ML_Engineer,Married
+130,65.0,Male,Colorado,MBA,Married
+131,49.0,Female,New york,MBA,Married
+132,30.0,Male,LA,AI_Engineer,Unmarried
+133,55.0,,LA,Doctor,Married
+134,65.0,Male,Colorado,AI_Engineer,Unmarried
+135,22.0,Male,Florida,AI_Engineer,Married
+136,,Male,Colorado,,Unmarried
+137,59.0,Female,LA,AI_Engineer,Unmarried
+138,50.0,Male,Colorado,MBA,Married
+139,56.0,Male,New york,AI_Engineer,Married
+140,57.0,Female,LA,MBA,Unmarried
+141,57.0,Female,Florida,Doctor,Unmarried
+142,,Female,LA,Doctor,Unmarried
+143,31.0,Female,Florida,ML_Engineer,Married
+144,18.0,Male,,AI_Engineer,Married
+145,42.0,Female,New york,MBA,Unmarried
+146,20.0,Male,LA,ML_Engineer,Married
+147,30.0,Male,Colorado,ML_Engineer,Married
+148,44.0,Female,New york,AI_Engineer,Unmarried
+149,41.0,Female,Florida,Doctor,Married
+150,42.0,Female,Colorado,ML_Engineer,Married
+151,53.0,Female,Florida,Doctor,Married
+152,51.0,Male,Florida,ML_Engineer,Married
+153,29.0,Female,Colorado,ML_Engineer,Married
+154,28.0,Male,LA,ML_Engineer,Married
+155,20.0,Female,Colorado,AI_Engineer,Married
+156,35.0,Male,LA,Doctor,Married
+157,44.0,Male,Colorado,Doctor,Married
+158,51.0,Female,LA,AI_Engineer,Unmarried
+159,48.0,Male,LA,Doctor,Unmarried
+160,50.0,Male,LA,Doctor,Unmarried
+161,47.0,Male,New york,ML_Engineer,Unmarried
+162,27.0,Female,Colorado,AI_Engineer,Married
+163,,Male,Florida,ML_Engineer,Unmarried
+164,53.0,Female,Colorado,ML_Engineer,Married
+165,38.0,Male,New york,AI_Engineer,Unmarried
+166,25.0,Male,LA,ML_Engineer,Married
+167,28.0,Female,New york,ML_Engineer,Married
+168,18.0,Male,Florida,Doctor,Married
+169,25.0,Female,Colorado,,Unmarried
+170,46.0,Female,,Doctor,Married
+171,50.0,Female,Colorado,MBA,Unmarried
+172,30.0,Female,New york,ML_Engineer,Unmarried
+173,62.0,Male,LA,MBA,Unmarried
+174,19.0,Female,New york,Doctor,Married
+175,65.0,Female,New york,Doctor,Unmarried
+176,59.0,Male,Colorado,Doctor,Married
+177,41.0,Male,LA,AI_Engineer,Married
+178,55.0,Male,New york,AI_Engineer,Unmarried
+179,63.0,Male,Colorado,MBA,Married
+180,63.0,Male,New york,Doctor,Unmarried
+181,55.0,Female,LA,Doctor,Unmarried
+182,23.0,Male,Florida,MBA,Unmarried
+183,41.0,Male,Florida,MBA,Unmarried
+184,21.0,Female,Colorado,Doctor,Married
+185,39.0,Female,Colorado,ML_Engineer,Married
+186,28.0,Male,LA,AI_Engineer,Married
+187,52.0,Male,,AI_Engineer,Unmarried
+188,60.0,Male,LA,MBA,Married
+189,48.0,Male,Colorado,AI_Engineer,Unmarried
+190,32.0,Female,LA,Doctor,Married
+191,32.0,Female,New york,MBA,Unmarried
+192,45.0,Male,LA,ML_Engineer,Married
+193,50.0,Female,LA,Doctor,Married
+194,21.0,Female,Colorado,ML_Engineer,Unmarried
+195,58.0,Female,Colorado,Doctor,Unmarried
+196,38.0,Female,Florida,AI_Engineer,Unmarried
+197,53.0,Male,LA,AI_Engineer,Married
+198,21.0,Female,Florida,Doctor,Married
+199,51.0,Female,Colorado,ML_Engineer,Married
+200,56.0,Male,Florida,,Unmarried
+201,59.0,Male,New york,AI_Engineer,Unmarried
+202,64.0,Female,Colorado,Doctor,Unmarried
+203,30.0,,LA,MBA,Married
+204,61.0,Male,LA,AI_Engineer,Married
+205,56.0,Male,Florida,,Unmarried
+206,57.0,Female,Florida,Doctor,Unmarried
+207,45.0,Female,Colorado,AI_Engineer,Unmarried
+208,29.0,Female,LA,Doctor,Unmarried
+209,20.0,Male,Florida,Doctor,Married
+210,46.0,Female,New york,Doctor,Married
+211,50.0,Female,Colorado,Doctor,
+212,58.0,Male,Colorado,MBA,Married
+213,49.0,,Colorado,Doctor,Married
+214,55.0,Female,New york,AI_Engineer,Married
+215,43.0,Male,Colorado,ML_Engineer,
+216,42.0,Male,New york,AI_Engineer,Unmarried
+217,59.0,Male,Colorado,Doctor,Married
+218,50.0,Female,Florida,,Unmarried
+219,30.0,Female,LA,MBA,Married
+220,22.0,Male,LA,ML_Engineer,Married
+221,31.0,,LA,MBA,
+222,18.0,Female,LA,MBA,Married
+223,57.0,Female,LA,MBA,Unmarried
+224,40.0,Female,LA,Doctor,Unmarried
+225,65.0,,Colorado,MBA,Married
+226,39.0,Male,Florida,AI_Engineer,Married
+227,53.0,Male,LA,AI_Engineer,Unmarried
+228,64.0,Female,LA,MBA,Married
+229,19.0,Female,New york,MBA,Unmarried
+230,41.0,Male,LA,ML_Engineer,Married
+231,62.0,Male,Florida,MBA,Married
+232,24.0,Female,Florida,AI_Engineer,Married
+233,65.0,Female,LA,ML_Engineer,Married
+234,62.0,Male,LA,AI_Engineer,Married
+235,65.0,,New york,Doctor,Married
+236,25.0,Female,Florida,Doctor,Unmarried
+237,,Male,LA,Doctor,Married
+238,46.0,Male,New york,Doctor,Unmarried
+239,25.0,Female,Colorado,ML_Engineer,Unmarried
+240,42.0,,,Doctor,Married
+241,52.0,Female,New york,AI_Engineer,Married
+242,41.0,Male,LA,Doctor,
+243,64.0,Male,Colorado,MBA,Unmarried
+244,34.0,Female,New york,AI_Engineer,Married
+245,,Male,Colorado,AI_Engineer,Married
+246,20.0,Female,Florida,,Unmarried
+247,65.0,Female,LA,AI_Engineer,Married
+248,30.0,Male,Florida,,Married
+249,50.0,Female,Florida,Doctor,Unmarried
+250,19.0,Female,Colorado,AI_Engineer,Married
+251,18.0,Male,Florida,ML_Engineer,Unmarried
+252,42.0,Male,Colorado,AI_Engineer,Married
+253,21.0,Male,Colorado,Doctor,Married
+254,61.0,Male,New york,Doctor,Married
+255,55.0,Male,Colorado,MBA,Married
+256,21.0,Female,,AI_Engineer,Married
+257,43.0,Male,Colorado,AI_Engineer,Married
+258,39.0,Male,LA,AI_Engineer,Married
+259,38.0,Female,Colorado,AI_Engineer,Married
+260,35.0,Male,New york,Doctor,Unmarried
+261,61.0,Female,LA,ML_Engineer,Unmarried
+262,35.0,Male,Florida,ML_Engineer,Unmarried
+263,56.0,Female,Colorado,MBA,Married
+264,44.0,Male,New york,AI_Engineer,Unmarried
+265,38.0,Male,Colorado,MBA,
+266,46.0,Female,LA,MBA,Married
+267,20.0,Male,Florida,,
+268,32.0,Male,LA,AI_Engineer,Married
+269,34.0,Male,Florida,ML_Engineer,Married
+270,23.0,Male,Colorado,,Unmarried
+271,53.0,Male,Colorado,AI_Engineer,Unmarried
+272,46.0,Female,Florida,MBA,Unmarried
+273,18.0,Female,New york,ML_Engineer,Married
+274,39.0,Male,New york,Doctor,Unmarried
+275,,Male,Colorado,Doctor,Married
+276,59.0,Female,New york,ML_Engineer,Married
+277,50.0,Male,,Doctor,Unmarried
+278,40.0,Female,New york,,Married
+279,28.0,Female,Florida,Doctor,Married
+280,39.0,Male,Florida,Doctor,Married
+281,45.0,Female,Colorado,MBA,Unmarried
+282,35.0,Female,Colorado,AI_Engineer,Unmarried
+283,36.0,Male,Colorado,Doctor,Married
+284,46.0,Male,LA,ML_Engineer,Married
+285,37.0,Female,LA,MBA,
+286,,Female,,MBA,Unmarried
+287,54.0,Female,New york,MBA,Unmarried
+288,43.0,Male,LA,AI_Engineer,Married
+289,,Male,Colorado,AI_Engineer,Unmarried
+290,24.0,Female,New york,AI_Engineer,Unmarried
+291,47.0,Female,Florida,MBA,Unmarried
+292,29.0,Male,Florida,Doctor,Unmarried
+293,29.0,Male,New york,ML_Engineer,
+294,23.0,,Colorado,Doctor,Unmarried
+295,35.0,Female,Florida,ML_Engineer,Married
+296,55.0,Male,LA,ML_Engineer,Married
+297,34.0,Female,LA,MBA,Unmarried
+298,35.0,Male,LA,MBA,Married
+299,34.0,Female,New york,ML_Engineer,Unmarried
+300,41.0,Male,Florida,MBA,Married
+301,61.0,Male,New york,Doctor,Unmarried
+302,52.0,Female,Colorado,ML_Engineer,Unmarried
+303,35.0,Female,,Doctor,Married
+304,50.0,Female,Florida,AI_Engineer,Unmarried
+305,18.0,Male,Florida,MBA,Married
+306,34.0,Female,Colorado,MBA,Married
+307,65.0,Female,Colorado,MBA,Married
+308,32.0,Female,Florida,Doctor,Unmarried
+309,39.0,Female,Colorado,MBA,
+310,63.0,Female,Florida,Doctor,Married
+311,,Female,LA,ML_Engineer,Married
+312,31.0,Male,LA,AI_Engineer,Married
+313,40.0,Male,Colorado,Doctor,Married
+314,56.0,Male,Florida,AI_Engineer,Unmarried
+315,39.0,Female,Colorado,AI_Engineer,Married
+316,27.0,Female,Colorado,AI_Engineer,Married
+317,19.0,Female,New york,ML_Engineer,
+318,50.0,Male,LA,ML_Engineer,Unmarried
+319,43.0,,New york,AI_Engineer,Married
+320,35.0,Female,New york,AI_Engineer,Married
+321,31.0,Female,New york,ML_Engineer,Married
+322,20.0,Female,Florida,Doctor,Married
+323,46.0,Male,New york,Doctor,Unmarried
+324,34.0,,Colorado,AI_Engineer,Unmarried
+325,62.0,Male,Florida,,Unmarried
+326,59.0,Female,LA,ML_Engineer,Married
+327,40.0,Female,Colorado,MBA,Married
+328,27.0,Female,Colorado,,Married
+329,38.0,Female,Colorado,ML_Engineer,Married
+330,49.0,Male,LA,AI_Engineer,Unmarried
+331,59.0,Female,Colorado,ML_Engineer,Unmarried
+332,26.0,Female,LA,ML_Engineer,Married
+333,48.0,Female,LA,Doctor,
+334,29.0,Female,Florida,ML_Engineer,Unmarried
+335,19.0,Male,LA,MBA,Married
+336,62.0,Male,LA,Doctor,Married
+337,32.0,,New york,AI_Engineer,Married
+338,32.0,Female,New york,MBA,Unmarried
+339,42.0,Male,LA,MBA,Unmarried
+340,41.0,Male,New york,,Married
+341,,Male,Florida,AI_Engineer,Unmarried
+342,20.0,Female,New york,Doctor,Married
+343,18.0,Male,Colorado,Doctor,Unmarried
+344,,Male,LA,,Unmarried
+345,22.0,Male,Florida,ML_Engineer,Unmarried
+346,26.0,Male,,MBA,Unmarried
+347,48.0,Male,Florida,Doctor,Unmarried
+348,55.0,Female,LA,AI_Engineer,Married
+349,52.0,Male,Colorado,AI_Engineer,Unmarried
+350,57.0,Female,LA,MBA,Unmarried
+351,56.0,Female,Florida,Doctor,
+352,31.0,,Colorado,MBA,Unmarried
+353,49.0,Male,Colorado,ML_Engineer,Married
+354,57.0,Male,Florida,MBA,Married
+355,37.0,Male,Colorado,,Married
+356,56.0,Male,New york,Doctor,Unmarried
+357,24.0,Female,Florida,Doctor,Married
+358,54.0,Male,Florida,ML_Engineer,Married
+359,48.0,Female,New york,Doctor,Unmarried
+360,63.0,Female,LA,ML_Engineer,Married
+361,,Male,New york,ML_Engineer,Unmarried
+362,60.0,Female,LA,MBA,Unmarried
+363,35.0,Male,New york,ML_Engineer,Unmarried
+364,,Female,Colorado,ML_Engineer,Married
+365,65.0,Female,Florida,AI_Engineer,Married
+366,25.0,Female,,MBA,Unmarried
+367,,Male,Colorado,Doctor,Married
+368,54.0,Female,New york,AI_Engineer,Married
+369,52.0,Female,LA,MBA,Unmarried
+370,29.0,Female,Florida,MBA,Unmarried
+371,41.0,Female,Florida,ML_Engineer,Married
+372,40.0,Male,Colorado,Doctor,Unmarried
+373,27.0,Male,Florida,Doctor,
+374,21.0,Male,New york,ML_Engineer,Unmarried
+375,28.0,Female,Florida,Doctor,Unmarried
+376,39.0,Female,Colorado,Doctor,Married
+377,42.0,Female,LA,ML_Engineer,Unmarried
+378,44.0,Male,New york,MBA,
+379,58.0,Female,LA,Doctor,Married
+380,28.0,Male,New york,ML_Engineer,Married
+381,63.0,Female,Colorado,ML_Engineer,Married
+382,44.0,,New york,AI_Engineer,Married
+383,47.0,Female,,ML_Engineer,Married
+384,55.0,Male,LA,AI_Engineer,Unmarried
+385,39.0,Male,Florida,ML_Engineer,Unmarried
+386,46.0,Male,LA,AI_Engineer,Unmarried
+387,25.0,Male,Colorado,MBA,Unmarried
+388,51.0,Male,Florida,ML_Engineer,Unmarried
+389,37.0,Female,LA,AI_Engineer,Married
+390,54.0,Male,Florida,MBA,Unmarried
+391,25.0,Male,LA,ML_Engineer,
+392,29.0,Male,New york,Doctor,Married
+393,46.0,Male,New york,MBA,Married
+394,54.0,Male,Florida,Doctor,Married
+395,32.0,Male,New york,Doctor,Married
+396,39.0,Male,New york,AI_Engineer,Married
+397,26.0,Female,Colorado,ML_Engineer,Married
+398,65.0,Male,Florida,MBA,Married
+399,28.0,Male,LA,Doctor,Unmarried
+400,22.0,,Colorado,ML_Engineer,Married
+401,56.0,Female,Colorado,MBA,Unmarried
+402,51.0,Female,LA,AI_Engineer,Unmarried
+403,56.0,Female,LA,Doctor,Married
+404,63.0,Male,LA,ML_Engineer,Unmarried
+405,,Male,LA,ML_Engineer,Married
+406,60.0,Female,,MBA,Unmarried
+407,28.0,Male,Colorado,,Married
+408,36.0,Female,LA,AI_Engineer,Unmarried
+409,38.0,Male,Colorado,ML_Engineer,Unmarried
+410,50.0,Male,New york,AI_Engineer,Married
+411,29.0,Male,LA,ML_Engineer,Unmarried
+412,36.0,Male,LA,Doctor,Married
+413,49.0,Female,LA,MBA,Unmarried
+414,24.0,Male,LA,Doctor,Unmarried
+415,59.0,Male,LA,AI_Engineer,Unmarried
+416,46.0,Female,New york,,Married
+417,21.0,Male,Florida,AI_Engineer,Unmarried
+418,21.0,Male,Florida,ML_Engineer,Married
+419,22.0,,Colorado,MBA,Married
+420,63.0,Female,New york,ML_Engineer,Married
+421,60.0,Female,New york,MBA,Married
+422,28.0,Female,Colorado,Doctor,
+423,65.0,Female,Colorado,Doctor,Married
+424,29.0,Female,Florida,MBA,Married
+425,19.0,Male,,MBA,
+426,50.0,Male,Florida,Doctor,Married
+427,30.0,Male,Florida,ML_Engineer,Unmarried
+428,39.0,Male,Florida,ML_Engineer,Unmarried
+429,49.0,Male,Florida,AI_Engineer,Married
+430,40.0,Male,New york,AI_Engineer,Married
+431,51.0,Female,Colorado,AI_Engineer,Unmarried
+432,18.0,Female,New york,MBA,Married
+433,64.0,Male,Florida,MBA,Married
+434,,Female,Colorado,AI_Engineer,Married
+435,18.0,Female,LA,MBA,Married
+436,38.0,Male,LA,AI_Engineer,Unmarried
+437,57.0,Male,New york,ML_Engineer,Unmarried
+438,28.0,Male,LA,AI_Engineer,Married
+439,23.0,Female,LA,AI_Engineer,Married
+440,56.0,Female,Colorado,ML_Engineer,Unmarried
+441,,Female,Colorado,ML_Engineer,Unmarried
+442,60.0,Male,Florida,MBA,Unmarried
+443,48.0,Male,LA,,Unmarried
+444,62.0,Male,LA,Doctor,Unmarried
+445,27.0,Female,Florida,AI_Engineer,Married
+446,45.0,Male,LA,MBA,Unmarried
+447,54.0,Female,LA,AI_Engineer,Unmarried
+448,33.0,Female,LA,AI_Engineer,Unmarried
+449,19.0,Male,LA,,Married
+450,63.0,Male,LA,MBA,Married
+451,30.0,Female,New york,AI_Engineer,Married
+452,23.0,Male,Florida,AI_Engineer,Married
+453,18.0,Female,LA,AI_Engineer,Married
+454,35.0,Male,Florida,Doctor,Married
+455,52.0,Male,LA,Doctor,
+456,43.0,Male,LA,AI_Engineer,Unmarried
+457,31.0,Female,New york,MBA,Married
+458,23.0,,LA,ML_Engineer,Unmarried
+459,55.0,Male,Colorado,Doctor,Married
+460,44.0,Female,Florida,MBA,Unmarried
+461,23.0,Female,New york,ML_Engineer,Married
+462,40.0,Female,LA,AI_Engineer,Married
+463,56.0,Male,LA,Doctor,
+464,64.0,Male,Colorado,MBA,Unmarried
+465,51.0,Male,New york,Doctor,Unmarried
+466,,Male,New york,ML_Engineer,Married
+467,32.0,Male,New york,Doctor,Married
+468,52.0,Male,LA,AI_Engineer,Married
+469,24.0,Female,New york,AI_Engineer,Married
+470,59.0,Female,Florida,AI_Engineer,Married
+471,56.0,Female,Colorado,AI_Engineer,Married
+472,49.0,Male,Colorado,AI_Engineer,Unmarried
+473,42.0,Male,Florida,MBA,Married
+474,61.0,Male,Florida,ML_Engineer,Unmarried
+475,33.0,Male,Florida,MBA,Married
+476,28.0,Female,New york,AI_Engineer,Unmarried
+477,20.0,Female,Florida,Doctor,Married
+478,21.0,Male,LA,AI_Engineer,Unmarried
+479,19.0,Male,New york,MBA,Unmarried
+480,44.0,Female,New york,AI_Engineer,Married
+481,27.0,Female,Colorado,MBA,Unmarried
+482,18.0,Female,Florida,,Unmarried
+483,42.0,Male,Florida,AI_Engineer,Unmarried
+484,,Male,New york,Doctor,Unmarried
+485,62.0,Male,Florida,Doctor,Married
+486,36.0,Male,,Doctor,Unmarried
+487,30.0,Female,,Doctor,
+488,30.0,Male,Florida,MBA,Married
+489,48.0,Male,Florida,ML_Engineer,Married
+490,27.0,Male,New york,MBA,Married
+491,65.0,,LA,ML_Engineer,Married
+492,25.0,Female,New york,AI_Engineer,Married
+493,,Male,New york,MBA,Unmarried
+494,52.0,Male,Florida,Doctor,Unmarried
+495,39.0,,LA,Doctor,Married
+496,40.0,Male,Florida,Doctor,Married
+497,31.0,Male,New york,ML_Engineer,Married
+498,,Male,New york,AI_Engineer,Unmarried
+499,61.0,Female,New york,ML_Engineer,Unmarried
+500,53.0,Female,Florida,,Unmarried
